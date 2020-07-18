@@ -2,12 +2,12 @@ import requests
 import pprint
 import pandas as pd
 
-api_key = "890c7149ca76d0bfa23e45ba5a1953db"
-api_key_v4 = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4OTBjNzE0" \
-             "OWNhNzZkMGJmYTIzZTQ1YmE1YTE5NTNkYiIsInN1YiI6Ij" \
-             "VmMTFlMmQyNjVjMjZjMDAzNmI1OGE3MCIsInNjb3BlcyI6WyJhc" \
-             "GlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qWuPEEgv8i5yK9-DZMpGDJbUN" \
-             "_3zuvaxibeNRxbbd6E"
+"""To check out the code below please sign up to
+    https://www.themoviedb.org/
+    and use your own API keys"""
+
+api_key = "***************************"
+api_key_v4 = "***********************"
 
 """
 HTTP requests
